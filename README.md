@@ -23,3 +23,6 @@ Make the best use of these utils by adding the following [Live Template](https:/
  }
  
  ```
+ 
+If you want to install the template the easy way just import the settings.jar found [here](https://github.com/EricDw/LiveTemplates)
+into Android Studio.
