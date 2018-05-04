@@ -1,4 +1,6 @@
 # TestingUtilsExample
+[![](https://jitpack.io/v/EricDw/TestingUtilsExample.svg)](https://jitpack.io/#EricDw/TestingUtilsExample)
+
 Provides some basic utility functions for JUnits tests written in kotlin.
 
 Make the best use of these utils by adding the following [Live Template](https://www.jetbrains.com/help/idea/2016.2/live-templates.html) to Android Studio:
